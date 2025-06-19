@@ -1,0 +1,7 @@
+{
+  "tests/test_api_user.py::test_get_single_user": true,
+  "tests/test_api_user.py::test_get_user_not_found": true,
+  "tests/test_api_user.py::test_create_user": true,
+  "tests/test_api_user.py::test_delete_user": true,
+  "tests/test_api_user.py::test_users_data_structure": true
+}

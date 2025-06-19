@@ -1,0 +1,9 @@
+[
+  "tests/test_api_user.py::test_create_user",
+  "tests/test_api_user.py::test_delete_user",
+  "tests/test_api_user.py::test_get_single_user",
+  "tests/test_api_user.py::test_get_user_not_found",
+  "tests/test_api_user.py::test_get_users_contains_data",
+  "tests/test_api_user.py::test_get_users_status_code",
+  "tests/test_api_user.py::test_users_data_structure"
+]
